@@ -2,9 +2,12 @@
 <h1 align="center">Hi 👋, I'm MalaKai Mathins</h1>
 <h3 align="center">A Passionate Video Game & Software Developer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3253310-Coder">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mokuba420&label=Profile%20views&color=0e75b6&style=flat" alt="mokuba420" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EmperorKaido99
+&label=Profile%20views&color=0e75b6&style=flat" alt="mokuba420" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mokuba420" alt="mokuba420" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EmperorKaido99
+" alt="EmperorKaido99
+" /></a> </p>
 
 - 🔭 I’m currently working on [ALT Earth](https://drive.google.com/drive/folders/1lt8udBaB__fHi8j_m_g6Cf-dvCV34uSm)
 
