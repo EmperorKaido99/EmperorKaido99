@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MalaKai Mathins</h1>
+<h1 align="center">Hi 👋, I'm Malachi Mathins</h1>
 <h3 align="center">A Passionate Video Game & Software Developer from South Africa</h3>
 
 <p align="center">
