@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Unreal Engine 4 & 5, Xamarin Forms, Wireframes, Android Studio, Visual Studio , Flutter, WordPress JavaScript Algorithms and Data Structures**
 
-- 📫 How to reach me **murasaki.jabari@gmail.com**
+- 📫 How to reach me **malachi3114@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1f1bUTbCrMKqbtKHnaioFrP4gUOGzM4mN](https://drive.google.com/drive/folders/1f1bUTbCrMKqbtKHnaioFrP4gUOGzM4mN)
 
